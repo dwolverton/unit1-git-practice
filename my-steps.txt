@@ -1,0 +1,36 @@
+### Step 2A
+/Users/grandcircus
+
+### Step 2B
+cd Desktop
+
+### Step 2C
+cd unit1-vc-practice
+
+### Step 2D
+/Users/grandcircus/Desktop/unit1-vc-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd /   or   cd /c/
+
+### Step 2H
+Applications Volumes      etc          sbin
+Library      bin          home         tmp
+System       cores        opt          usr
+Users        dev          private      var
+
+### Step 2I
+/   or   /c/
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Desktop
+cd unit1-vc-practice
